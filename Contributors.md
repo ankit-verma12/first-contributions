@@ -72,6 +72,7 @@
 - [Archita9412](https://github.com/Archita9412)
 - [Gurshaan Deol] (https://github.com/Gurshaan-Deol)
 - [Xander Wayne](https://github.com/xaaug)
+- [Ankit_verma](https://github.com/ankit-verma12)
 - [jayasree-007](https://github.com/jayasree-007)
 - [sarthakgit123](https://github.com/sarthakgit123)
 - [ThoorM444](https://github.com/thoorM444)
